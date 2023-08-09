@@ -1,0 +1,13 @@
+
+Top level folders:
+1. app Folder=> This foler is an App router. All folder in app it makes an router.It helps to create routing easily.
+2. public: Static assets like images, fonts, and other files can be placed here. They can be accessed using the /public URL.
+
+Top level files>
+1.package.json: This file holds metadata about the project and its dependencies. It also includes scripts for running tasks like development and building.
+2.next.config.js: This is a configuration file for customizing Next.js behavior.It helps to set up things like environment variables, webpack configurations, and more here.
+3.jsconfig.json: Depending on whether you're using TypeScript or plain JavaScript, this file configures TypeScript or JavaScript options for your project.
+4. .gitignore: It ignores the files when upload files in github.
+
+
+
